@@ -19,7 +19,6 @@
 -  Väl strukturerat så att man kan utöka i framtiden.
 
 -  Dokumenterat i källkoden med kommentarer så att även nån som har aldrig programmerad fattar.
--  
 
 
 ## Kommentarer
