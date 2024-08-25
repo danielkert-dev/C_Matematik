@@ -1,11 +1,11 @@
 # C_Matematik
- Alla amnen i matematik skriven i c
+ Alla ämnen i matematik skriven i c
 
 ## Regler
 
 -  Allt är skriven i c programmerings språk.
 
--  Alla Matematiska amnen kommer från den sida https://www.formelsamlingen.se/alla-amnen/matematik
+-  Alla Matematiska ämnen kommer från den sida https://www.formelsamlingen.se/alla-amnen/matematik
 
 -  Man får bara använda biblioteker från den sida https://www.w3schools.com/c/c_ref_reference.php
 
@@ -14,7 +14,7 @@
 
 ## Uppgifter
 
--  En programm där du kan navigera och välja matematiska amnen som kan lösas genom att läsa och skriva in data i terminalen.
+-  En programm där du kan navigera och välja matematiska ämnen som kan lösas genom att läsa och skriva in data i terminalen.
 
 -  Väl strukturerat så att man kan utöka i framtiden.
 
@@ -45,3 +45,5 @@
 |-- src                <- Source files
 `-- tests              <- Unit tests
 ```
+
+-  
